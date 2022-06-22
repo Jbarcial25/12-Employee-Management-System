@@ -17,7 +17,7 @@ This can be done by simply running: `npm i` or `npm install console.table inquir
 Once this process has completed, you're all set!
 
 ## Usage
-![rook-social-api](https://user-images.githubusercontent.com/93315369/170851596-ae2bcc85-ffe1-4d0b-ac80-1d849727070f.jpg)
+![rook-social-api](https://github.com/Jbarcial25/12-Employee-Management-System/blob/main/demo/Screen%20Shot%202022-06-21%20at%2010.33.02%20PM.png?raw=true)
 
 Project Video: [Check out our demonstration!](https://www.youtube.com/watch?v=__ZI9ShJHlI)
 
