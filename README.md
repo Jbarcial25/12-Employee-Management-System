@@ -18,7 +18,7 @@ Once this process has completed, you're all set!
 
 ## Usage
 
-Project Video: [Check out our demonstration!](https://www.youtube.com/watch?v=_CAxXIBM9BY)
+Project Video: [Check out our demonstration!](https://www.youtube.com/watch?v=__ZI9ShJHlI)
 
 To use this application, we can utilize our `npm start` script, which is simply `node index.js`.
 
