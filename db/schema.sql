@@ -1,11 +1,11 @@
 -- Create the table for departments
-CREATE TABLE departments ( 
+CREATE TABLE department ( 
   id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(30)
 );
 
 -- Create the table for roles
-CREATE TABLE roles (
+CREATE TABLE role (
     id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
     title VARCHAR(30),
     salary DECIMAL (10, 2) NOT NULL,
@@ -13,7 +13,7 @@ CREATE TABLE roles (
 );
 
 -- Create the table for employees
-CREATE TABLE employees (
+CREATE TABLE employee (
     id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
     first_name VARCHAR(30),
     last_name VARCHAR(30),
